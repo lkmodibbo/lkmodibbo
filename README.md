@@ -45,9 +45,8 @@ Throughout my ALX journey, I gained hands-on experience with:
 ---
 
 ## 🌍 Connect With Me
-- 💼 [LinkedIn] www.linkedin.com/in/lukman-modibbo-sa-id
-- 🌐 [Portfolio Website](https://your-portfolio-link.com)  
-- 🐦 [Twitter/X] https://x.com/Lukmanmodibbo  
+- 💼 www.linkedin.com/in/lukman-modibbo-sa-id 
+- 🐦 https://x.com/Lukmanmodibbo  
 - 📧 **lukmansaidmodibbo@gmail.com**
 
 ---
