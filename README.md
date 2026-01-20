@@ -1,55 +1,77 @@
- 👋 Hi, I'm Lukman Said Modibbo
+# 👋 Hi, I'm Lukman Said Modibbo
 
-🎓 Front-End Web Developer | ALX Software Engineering Graduate | Lifelong Learner
+🎓 Frontend Developer | ALX Software Engineering Graduate | Lifelong Learner  
+📍 Abuja, Nigeria
 
-Welcome to my GitHub! I’m passionate about turning ideas into functional, user-friendly web experiences.  
-I recently completed the ALX Software Engineering Programme in Front-End Web Development, where I built real-world projects and learned industry-level best practices.
+I'm a passionate Frontend Developer focused on building clean, responsive, and user-friendly web applications.  
+I enjoy turning ideas into real products and continuously improving my skills through hands-on projects and learning.
 
-  What I’ve Learned
-Throughout my ALX journey, I gained hands-on experience with:
-- HTML5, CSS3, and TailwindCSS – crafting responsive, accessible web pages  
-- JavaScript (ES6+) – writing clean, interactive logic  
-- React.js – building dynamic single-page applications with state management  
-- Git & GitHub – version control, branching, and collaboration workflows  
-- UI/UX Design Principles – structuring intuitive user experiences  
-- Agile Methodologies – teamwork, standups, and code reviews  
+🚀 **Career Goal:**  
+To grow as a Software Engineer while building impactful digital products that solve real-world problems.
 
 ---
 
-## Capstone Project: Quiz App
- A fully functional Quiz Application built with React that allows users to test their knowledge on different topics.
+## 🛠️ Skills & Technologies
 
-# Features:
-- Interactive multiple-choice questions  
-- Dynamic score tracking  
-- Responsive and accessible design  
-- Currently working on integrating AI features for:
-  - Automatic question generation  
-  - Smart answer explanations  
-  - Personalized performance summaries  
+### Frontend
+- HTML5, CSS3, TailwindCSS  
+- JavaScript (ES6+)  
+- React.js
+- Typescript
 
-🔗 https://github.com/lkmodibbo/quizify.git
+### Tools & Workflow
+- Git & GitHub  
+- VS Code  
+- Responsive Design  
+- UI/UX Principles  
+- Agile / Scrum  
 
-# What I’m Working On
-- Enhancing my Quiz App with AI using the OpenAI API  
-- Exploring Next.js for more advanced web apps  
-- Building projects that connect frontend and AI for better learning experiences  
-
-# 🛠️ Tech Stack
-| Category | Tools & Technologies |
-|-----------|----------------------|
-| Frontend | HTML5, CSS3, JavaScript, React.js, TailwindCSS |
-| Tools | Git, GitHub, VS Code |
-| Learning | AI Integration, OpenAI API, Next.js |
+### Currently Learning
+- Next.js  
+- AI integration with OpenAI API  
 
 ---
 
-## 🌍 Connect With Me
-- 💼 www.linkedin.com/in/lukman-modibbo-sa-id 
-- 🐦 https://x.com/Lukmanmodibbo  
-- 📧 **lukmansaidmodibbo@gmail.com**
+## 🚀 Featured Projects
+
+### 🧠 Quizify – React Quiz Application
+A dynamic quiz application that allows users to test their knowledge with interactive questions and real-time scoring.
+
+**Features:**
+- Multiple-choice questions  
+- Score tracking  
+- Responsive UI  
+- AI-powered enhancements (in progress)
+
+🔗 **Repository:** https://github.com/lkmodibbo/quizify  
 
 ---
 
-> _“The future belongs to those who keep learning and building.”_  
-> — Lukman Said Modibbo
+### 🛒 E-Commerce Platform (Frontend)
+A frontend-focused e-commerce interface featuring product listings and responsive layouts.
+
+🔗 **Repository:** *(Add link when ready)*  
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/lukman-modibbo-sa-id  
+- 📧 Email: lukmansaidmodibbo@gmail.com  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lkmodibbo&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lkmodibbo&layout=compact&theme=tokyonight)
+
+---
+
+## 👀 Profile Visitors
+![Visitor Count](https://komarev.com/ghpvc/?username=lkmodibbo&style=flat-square)
+
+
+⭐ **Check out my pinned projects below**  
+🤝 **Let’s connect and collaborate!**
