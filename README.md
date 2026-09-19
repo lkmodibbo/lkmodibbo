@@ -1,77 +1,77 @@
-# 👋 Hi, I'm Lukman Said Modibbo
+# Hi, I'm Lukman Modibbo Said 👋
 
-🎓 Frontend Developer | ALX Software Engineering Graduate | Lifelong Learner  
+**Frontend Developer** at Flexisaf EduSoft · Former Mathematics & Computer Science teacher · ALX Software Engineering graduate  
 📍 Abuja, Nigeria
 
-I'm a passionate Frontend Developer focused on building clean, responsive, and user-friendly web applications.  
-I enjoy turning ideas into real products and continuously improving my skills through hands-on projects and learning.
+I build clean, fast, user-friendly web applications with **React** and **TypeScript**. Today I work on **SAFRECORD**, a live school management platform used by real schools, where I focus on performance, reliability, and interfaces that non-technical staff can use every day.
 
-🚀 **Career Goal:**  
-To grow as a Software Engineer while building impactful digital products that solve real-world problems.
+Before software, I taught Mathematics and Computer Science for 6+ years. That background shapes how I design: clear, simple, and built around the people using it.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
-### Frontend
-- HTML5, CSS3, TailwindCSS  
-- JavaScript (ES6+)  
-- React.js
-- Typescript
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Tools & Workflow
-- Git & GitHub  
-- VS Code  
-- Responsive Design  
-- UI/UX Principles  
-- Agile / Scrum  
+**Strong:** React, TypeScript, JavaScript (ES6+), REST API integration, responsive design, Tailwind CSS  
+**Workflow:** Git & GitHub, Agile/Scrum, VS Code  
+**Currently learning:** Next.js, AI integration with the OpenAI API
 
-### Currently Learning
-- Next.js  
-- AI integration with OpenAI API  
+---
+
+## 💼 What I Do at Work
+
+**SAFRECORD** (Flexisaf EduSoft): a live school management platform  
+- Build and maintain frontend features with React, TypeScript, and REST APIs
+- Improve performance and reliability (rendering, data-fetching, request handling)
+- Turn school workflows into simple, usable interfaces
+
+> The codebase is private, so I can't share it here. Happy to talk through my work in an interview or call.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 Quizify – React Quiz Application
-A dynamic quiz application that allows users to test their knowledge with interactive questions and real-time scoring.
+### 🧠 [Quizify](https://github.com/lkmodibbo/quizify): React Quiz App
+An interactive quiz app with multiple-choice questions and real-time scoring.
 
-**Features:**
-- Multiple-choice questions  
-- Score tracking  
-- Responsive UI  
+- Multiple-choice questions and score tracking
+- Responsive layout
 - AI-powered enhancements (in progress)
 
-🔗 **Repository:** https://github.com/lkmodibbo/quizify  
+**Built with:** React · JavaScript · CSS  
+🔗 [Repository](https://github.com/lkmodibbo/quizify)
+
+<!-- Add here when ready:
+### 🛒 E-Commerce Frontend
+Short description · Built with · Live demo · Repository
+-->
 
 ---
 
-### 🛒 E-Commerce Platform (Frontend)
-A frontend-focused e-commerce interface featuring product listings and responsive layouts.
+## 🎓 Background
 
-🔗 **Repository:** *(Add link when ready)*  
+- **B.Tech, Computer Science** (Second Class Upper), Modibbo Adama University of Technology, Yola (2023)
+- **ALX Africa** frontend programs (2025)
+- **6+ years** teaching Mathematics and Computer Science
+- Interested in education technology and how computing is taught in Nigerian schools
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/lukman-modibbo-sa-id  
-- 📧 Email: lukmansaidmodibbo@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukman-modibbo-sa-id)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukmansaidmodibbo@gmail.com)
 
 ---
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lkmodibbo&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lkmodibbo&layout=compact&theme=tokyonight)
-
----
-
-## 👀 Profile Visitors
-![Visitor Count](https://komarev.com/ghpvc/?username=lkmodibbo&style=flat-square)
-
-
-⭐ **Check out my pinned projects below**  
-🤝 **Let’s connect and collaborate!**
